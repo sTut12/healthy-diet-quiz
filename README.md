@@ -46,5 +46,8 @@ BCA Student
 
 GitHub: https://github.com/stut12
 
+## Screenshot
+![Healthy Diet Quiz](screenshot.png.jpeg)
+
 
 
